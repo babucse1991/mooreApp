@@ -1,0 +1,14 @@
+.item-input {
+	padding:2px 0px 0 3px !important;
+}
+.space{
+    padding:5px!important;
+}
+.row {
+    display: flex;
+    padding: 5px 0 !important;
+    width: 100%;
+}
+.fontCol{
+	color:#2c41c2 !important;
+}
